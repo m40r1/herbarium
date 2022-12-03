@@ -1,0 +1,28 @@
+#+title: Infra
+
+* Mongodb
+um perfil contem jardins
+jardins contem plantas
+
+** caching?
+need to look into it
+
+* Sec
+Spring security is solid
+
+* Logging
+sl4j??
+need to look into it
+
+* Resilience
+resilience4j?
+look into it
+
+* Mapper
+gets data from db from scraper
+checks if planta from user input is ok for db
+goes to domain queue to wait for validation
+
+* Validator
+there are spring annotations for this
+look into it
