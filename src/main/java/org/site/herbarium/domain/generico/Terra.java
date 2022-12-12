@@ -1,12 +1,5 @@
-package org.site.herbarium.generico;
+package org.site.herbarium.domain.generico;
 
 public enum Terra {
-    ARENOSA,
-    ARGISSOLO,
-    CAMBISSOLO,
-    JARDIM,
-    LATOSSOLO,
-    NEOSSOLO,
-    PRETA,
-    VERMELHA
+    ARENOSA, ARGISSOLO, CAMBISSOLO, JARDIM, LATOSSOLO, NEOSSOLO, PRETA, VERMELHA
 }

@@ -1,7 +1,7 @@
 package org.site.herbarium.domain.catalogo;
 
 import org.site.herbarium.domain.generico.Estacao;
-import org.site.herbarium.generico.Bioma;
+import org.site.herbarium.domain.generico.Bioma;
 
 public class PlantaVo {
 

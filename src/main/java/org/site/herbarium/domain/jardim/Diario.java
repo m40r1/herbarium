@@ -5,10 +5,12 @@ import java.util.HashMap;
 import java.util.Optional;
 
 public class Diario {
-    private HashMap<LocalDateTime, String> anotacao;
+    // REVIEW is this legal?
+    // i think this is not good
+    private final HashMap<LocalDateTime, String> anotacao = new HashMap<>();
 
-    public HashMap<LocalDateTime, String> todasAnotacoes() {
-        return anotacao;
+    public Optional<HashMap<LocalDateTime, String>> todasAnotacoes() {
+        return Optional.of(anotacao);
     }
 
     public void anotar(final String anotacao) {

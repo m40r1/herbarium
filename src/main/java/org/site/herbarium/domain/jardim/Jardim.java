@@ -22,7 +22,8 @@ public class Jardim {
     }
 
     public HashMap<LocalDateTime, String> lerDiario(Diario diario) {
-        return diario.todasAnotacoes();
+
+        return diario.todasAnotacoes().get();
     }
 
 }

@@ -1,10 +1,5 @@
-package org.site.herbarium.generico;
+package org.site.herbarium.domain.generico;
 
 public enum Bioma {
-    AMAZONIA,
-    CAATINGA,
-    CERRADO,
-    MATA_ATLANTICA,
-    PAMPA,
-    PANTANAL
+    AMAZONIA, CAATINGA, CERRADO, MATA_ATLANTICA, PAMPA, PANTANAL
 }

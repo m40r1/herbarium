@@ -1,7 +1,7 @@
 package org.site.herbarium.domain.jardim;
 
 import org.site.herbarium.domain.generico.Estacao;
-import org.site.herbarium.generico.Bioma;
+import org.site.herbarium.domain.generico.Bioma;
 
 public class PlantaVo {
     // TODO planta para o contexto do jardim

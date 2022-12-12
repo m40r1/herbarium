@@ -1,14 +1,5 @@
-package org.site.herbarium.generico;
+package org.site.herbarium.domain.generico;
 
 public enum Clima {
-    DESERTICO,
-    EQUATORIAL,
-    FrioDeMontanha,
-    MEDITERRANEO,
-    POLAR,
-    SEMIARIDO,
-    SUBPOLAR,
-    SUBTROPICAL,
-    TEMPERADO,
-    TROPICAL
+    DESERTICO, EQUATORIAL, FRIODEMONTANHA, MEDITERRANEO, POLAR, SEMIARIDO, SUBPOLAR, SUBTROPICAL, TEMPERADO, TROPICAL
 }
