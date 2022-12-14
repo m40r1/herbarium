@@ -1,0 +1,130 @@
+#+title: Herbarium
+
+* Plantas medicinais
+Fitoterapia
+o nome chique
+O core principal?
+Um dos cernes da aplicação
+** Tratam doenças
+*** Alcaloides
+atuam no sistema nervoso
+normalmente calmantes,
+anestésicos e
+analgésicos
+
+*** Mucilagens
+cicatrizantes,
+laxativo,
+expectorante etc
+
+*** Taninos
+ação adstringente
+antimicrobiana
+
+*** Flavonoides
+Funcionam como
+anti-inflatório,
+anti-hepatotóxico etc
+
+*** Óleos essenciais
+São bactericidas,
+cicatrizantes,
+analgésicos,
+relaxante etc
+
+** Modos de preparo
+** Riscos
+Muitas são altamente abortivas
+
+* Plantio
+Necessário saber identificação botânica
+Onde sera o plantio
+** Tipos de crescimento|porte
+Se e uma erva,arbusto,arvore ou etc
+** Necessidade de luz 
+#entender melhor depois
+Pleno sol
+meia sombra
+sombra
+** Necessidade de água
+Regas abundantes
+regas moderadas
+frequentes
+ou periódicas
+
+** Preparar o solo
+*** Drenar água
+Canteiros com entorno de 30cm de altura
+Colocar pedriscos,cacos ou argila expandida nos fundos dos recipientes também ajudam a drenar o excesso de água
+
+*** Correção de acidez
+Utilizar 100g/m2(grama por metro quadrado) de calcário
+
+*** Textura do solo
+3 a 5kg/m2 de húmus ou composto orgânico
+Em caso de recipientes misturar terra com húmus,composto orgânico ou torta de mamona
+** Semeadura
+quanto menor a semente mais raso o plantio
+*** Mudas
+Cuidado ao retirar
+apertar de leve ao plantar para ajudar a fixar
+** Regar
+Sem encharcar
+cobrir o solo com capim seco,casca de arroz,etc
+para evitar erosão e respingos de terra
+** Adubar
+a cada 2|3 meses adubar com composto orgânico ou torta de mamona
+
+* Catalogo
+Responsável por guardar informações das plantas
+sorting e tudo mais
+criar "catálogos lógicos" para representar alguns agrupamentos importantes
+
+** Modelo
+*** Nome Cientifico
+muito útil para fazer pesquisas acadêmicas|confiáveis
+Nome ou nomes oficiais da planta
+
+*** Nome Popular
+Nome que voce fala com pessoas decentes
+Uteis para achar receitas
+porem talvez nao sejam os melhores metodos de se usar a planta pelo seu efeito medicinal|
+
+*** Indicacoes
+Oque a planta normalmente e usada para tratar
+talvez colocar a forma de faze-la junto
+diferentes problemas pedem diferentes preparos?
+
+*** ContraIndicacoes
+Os riscos?
+Algumas sao ruins em casos especificos
+alguns efeitos sao indesejados para algumas condicoes de saude
+** Agrupamentos
+*** Abortivas
+tambem podem causar dores abdominais e irritacoes intestinais
+**** Babosa
+Aloe arborescens
+**** Melao de sao caetano
+Momordica charantia
+**** Arruda
+Ruta graveolens
+
+** Plantas
+*** Carqueja
+Baccharis trimera
+Combate problemas hepaticos e
+do sistema digestorio,
+tem efeito analgesicos e
+anti-inflamatorio
+Em altas quantidades pode ser abortiva
+
+*** Confrei
+Symphytum officinale
+Cancinogenica
+causa cancer
+nao usar
+
+* Plantas alimenticias
+#TODO explorar depois
+* Plantas Toxicas
+#TODO explorar depois
