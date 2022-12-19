@@ -1,4 +1,4 @@
-package src.main.java.org.site.herbarium.domain.catalogo;
+package org.site.herbarium.domain.catalogo;
 
 public class Catalogo {
 }

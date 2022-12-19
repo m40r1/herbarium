@@ -1,17 +1,16 @@
 #+title: Domain
-* Jardim
-** Diário do jardim
-uma forma de manter anotações sobre oque esta acontece com o jardim
-oque aconteceu com o passar do tempo
-problemas que teve
-soluções que desenvolveu
-** Plantas Medicinais
-***  Arbóreas
-Costuma se planta direto nos recipientes
-com sacos plásticos de maior capacidade
+* Horta
+A horta e uma forma de pegar informações sobre a planta prontas do catalogo
+e organizar sua horta,sendo realizado um check do tamanho das plantas,e se de acordo com o tamanho especificado do canteiro
+seria possível colocar essas plantas numa distancia saudável,também seria feito uma forma de conferir as formas que as plantas afetam as outras
+provavelmente com cada planta tendo as plantas q afeta em si,se no jardim tiver algum match ela mostra pro usuário
+Junto com a capacidade de adicionar anotações nas plantas e nas hortas você acabara tendo no seu catalogo pessoal plantas com uma grande quantidade de informação
+pois não sei se vou colocar as anotações da planta vinculada a um jardim especifico ou a um usuário
+pois seria um "diário sobre suas hortas"
+junto com um catalogo de plantas
 **  PROJ Estacão Automática
 Quando o usuário fizer login
-chamar uma função do jardim
+chamar uma função do horta
 que compara o a data com as datas de cada estacão
 e define a estacão certa,
 baseado no brasil
@@ -20,22 +19,17 @@ baseado no brasil
 para uma opção capaz de lidar com zonas de tempo diferentes
 baseadas na localização do usuário?
 
-** Trocar tipo de terra?
-descobrir como isso funciona
-
-** -------------------------------
-
 ** Plantio
-*** Semeio
+*** [#A] Semeio
 Coletar sementes
 plantá-las e cultivar a planta
 Demora mais para se ter frutos
 mas e melhor para as plantas no geral
-**** Coleta de sementes
+**** [#B] Coleta de sementes
 Devem ser colhidas quando estiverem formadas e secas
 preferível coletá-las em embalagens de papel
 Caso a planta libere sementes e frutos ao amadurecer e necessário colher antes
-**** Armazenamento
+**** [#B] Armazenamento
 Temperatura de 4,5 a 5 C
 em sacos de papel permeável ou material impermeável selado
 **** Dormência
@@ -43,11 +37,11 @@ Caso as plantas não germinem em condições adequadas
 Pode-se romper a superfície da casca
 para que a água entre e ocorra a germinação
 
-*** Transplante
+*** [#A] Transplante
 Costumam crescer e dar frutos mais rápido
 porem são mais suscetíveis a bactérias e pragas
 e as raízes não costumam ser tao profundas
-****  Estacas
+****  [#C] Estacas
 ***** Folhas
 Folhas carnosas são destacadas da matriz e deixadas sobre a areia úmida ou parcialmente enterradas
 ***** Raiz
@@ -55,7 +49,7 @@ Também pode-se colocas em leito de areia
 ***** Caule
 Precisam ter folhas,pelo menos gemas
 precisam ter dois nos no mínimo,um no ápice e outro na base
-**** Cuidados na coleta
+**** [#B] Cuidados na coleta
 Planta matriz sem sintomas de doença
 Coletar nas horas mais frescas evita perda de água ate o plantio
 Recomenda-se deixar somente as folhas da parte superior
@@ -63,7 +57,7 @@ O corte da estaca é feito imediatamente abaixo de um nó, na base
 Quando as folhas forem muito grandes devem ser cortadas no meio
 ***** Tamanho
 de 7 a 15 cm
-**** Enraizamento
+**** [#C] Enraizamento
 Dura de 1 a 5 semanas
 deixar 2/3 abaixo da terra na sombra
 ou no sol pleno se houver proteção contra a umidade
@@ -75,14 +69,22 @@ apos transplantar e importante que se irrigue para melhor acomodação do solo
  Fácil acesso a água
  distante de esgotos fossa e chiqueiros
  exposto ao sol,de preferencia de manha
-*** Covas
+*** [#A] Covas
 Utilizadas para especies arbustivas,trepadeiras e arbóreas
 **** Dimensões
 30cm x 30cm x 30cm
 
 Com um espaçamento de 3m entre as plantas e 4m entre as linhas
 levando em conta o crescimento da planta
-*** Canteiros
+*** Sementeira
+****  Dimensões
+1m largura
+5m de comprimento
+**** Sulcos
+10 a 15 cm entre as sementes
+no max plantada a 1cm de profundidade
+
+*** [#A] Canteiros
 Mais comum para plantas de ciclo curto
 **** Dimensões
 1m2 de largura
@@ -97,14 +99,11 @@ Mais comum para plantas de ciclo curto
 50cm entre plantas e 70cm entre linhas
 plantas com 2m
 
-*** Sulcos
-Caso seja necessário divisão de touceiras ou rizomas na propagação
-ou algumas especies plantadas em covas
-*** Cobertura Morta
+*** [#C] Cobertura Morta
 E recomendado utilizar casca de arroz,capim seco,casca de cafe e etc
 ** Solo
 Algumas especies exigem solos úmidos e outras preferem terrenos areno-argiloso com umidade controlada
-*** Correção
+*** [#B] Correção
 Em caso de covas 1/4 das dosagens
 **** calcário
 para drenar água
@@ -116,7 +115,7 @@ para drenar água
 **** húmus
 2l/m2/canteiro
 
-*** Preparação
+*** [#B] Preparação
 Limpa-se a área|local,e revolve-se o solo
 Caso haja inclinação do solo e bom levar em conta para evitar erosão
 Capim-limão pode se tornar uma faixa de retenção por exemplo
@@ -153,7 +152,7 @@ Nematoides
 Fungos
 Bactérias
 Vírus
-*** Controle
+*** [#B] Controle
 Rotação de culturas
 Espaçamento adequado
 **** Consorciacao
@@ -210,16 +209,11 @@ bem a nenhuma outra planta.
 
 
 
+** [#B] Colheita
+Talvez fosse bom ter algumas templates de anotações
+alguns mais complexos e outros mais simples
+para o usuário fazer um acompanhamento da planta
 
-
-
-
-
-
-
-
-
-** Colheita
 E necessário olhar recomendações especificas para cada planta
 Bom levar em conta que isso também depende do fim dado para a parte colhida
 Realizar com o tempo seco de preferencia pela manha
@@ -234,13 +228,21 @@ Evitar a colheita de plantas doentes, com manchas, fora do padrão, com terra, p
 *** Ferramentas
 Flores e hastes utiliza-se tesoura de poda mas algumas podem ser pegas manualmente
 Raízes e partes subterrâneas utiliza-se pás,enxadas e enxadões
-*** Armazenamento
+*** PROJ [#C] Armazenamento
 Colocado em cestas ou caixas,não se pode amontoar ou amassar pois isso acelera a degradação
-*** Qualidade
+*** PROJ [#C] Qualidade
 Para o controle de qualidade devem ser anotados os seguintes dados: momento da colheita,
 condução da lavoura, local, produtor, condições de secagem, etc. Imediatamente após a
 colheita o material deve ser encaminhado para a secagem.
-** Secagem
+**** TODO code
+Criar horta e uma forma
+de aut
+** TODO Composteira
+sla
+bun falou
+** [#C] Secagem
+Apenas caso seja necessário
+tentar sempre consumir frescas
 • Não se recomenda lavar as plantas antes da secagem, exceto no caso de determinados
 rizomas e raízes, que devem ser lavados.
 • Deve-se separar as plantas de espécies diferentes.
@@ -254,7 +256,8 @@ seca em separado e conservada depois em recipientes individuais.
 secagem.
 • Para secar as folhas, a melhor maneira é conservá-las com seus talos, pois isto preserva
 sua qualidade, previne danificações e facilita o manuseio.
-** Preparos
+** [#C] Preparos
+Gerar um catalogo de receitas tb
 *** Banho
 Faz-se uma infusão ou decocção (veja a seguir) mais concentrada que dever ser coada e misturada na água do banho. Outra maneira indicada é colocar as ervas em um saco de pano firme e deixar boiando na água do banho. Os banhos podem ser parciais ou de corpo inteiro, e são normalmente indicados 1 vez por dia.
 • Amassar as ervas frescas e bem limpas, aplicar diretamente sobre a parte afetada ou
@@ -284,7 +287,7 @@ plantas adicionadas no sistema vão para uma quem
 quando alguém conferir se as informações são validas
 sera possível valida-la
 passando ela da queue para o catalogo principal
-e tornando a planta passível de ser plantada num jardim
+e tornando a planta passível de ser plantada num horta
 
 ** Filtrar por indicações?
 ** Revisar
@@ -297,7 +300,11 @@ Indicações & contra
 EfeitosMedicinais
 Como Consumir
 Fontes
-
+* Diario
+Uma coleção de paginas
+que pode ser pesquisada por títulos
+** Pagina
+interface que escreve,complementa informações,reescreve trechos e adiciona fts
 * Usuário
 ** Adicionar Planta
  Necessário:
@@ -317,5 +324,5 @@ sobre as plantas no catalogo
 de preferencia colocar uma sugestão do q esta errado
 e uma fonte?
 
-** Publicar jardim
-talvez isso seja uma ação do usuário e não do jardim
+** Publicar horta
+talvez isso seja uma ação do usuário e não do horta
