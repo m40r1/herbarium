@@ -1,0 +1,364 @@
+#+title: Domain
+* Horta
+A horta e uma forma de pegar informações sobre a planta prontas do catalogo
+e organizar sua horta,sendo realizado um check do tamanho das plantas,e se de acordo com o tamanho especificado do canteiro
+seria possível colocar essas plantas numa distancia saudável,também seria feito uma forma de conferir as formas que as plantas afetam as outras
+provavelmente com cada planta tendo as plantas q afeta em si,se no jardim tiver algum match ela mostra pro usuário
+Junto com a capacidade de adicionar anotações nas plantas e nas hortas você acabara tendo no seu catalogo pessoal plantas com uma grande quantidade de informação
+pois não sei se vou colocar as anotações da planta vinculada a um jardim especifico ou a um usuário
+pois seria um "diário sobre suas hortas"
+junto com um catalogo de plantas
+**  PROJ Estacão Automática
+Quando o usuário fizer login
+chamar uma função do horta
+que compara o a data com as datas de cada estacão
+e define a estacão certa,
+baseado no brasil
+
+*** WAIT Trocar LocalDateTime
+para uma opção capaz de lidar com zonas de tempo diferentes
+baseadas na localização do usuário?
+
+** Plantio
+*** [#A] Semeio
+Coletar sementes
+plantá-las e cultivar a planta
+Demora mais para se ter frutos
+mas e melhor para as plantas no geral
+**** [#B] Coleta de sementes
+Devem ser colhidas quando estiverem formadas e secas
+preferível coletá-las em embalagens de papel
+Caso a planta libere sementes e frutos ao amadurecer e necessário colher antes
+**** [#B] Armazenamento
+Temperatura de 4,5 a 5 C
+em sacos de papel permeável ou material impermeável selado
+**** Dormência
+Caso as plantas não germinem em condições adequadas
+Pode-se romper a superfície da casca
+para que a água entre e ocorra a germinação
+
+*** [#A] Transplante
+Costumam crescer e dar frutos mais rápido
+porem são mais suscetíveis a bactérias e pragas
+e as raízes não costumam ser tao profundas
+****  [#C] Estacas
+***** Folhas
+Folhas carnosas são destacadas da matriz e deixadas sobre a areia úmida ou parcialmente enterradas
+***** Raiz
+Também pode-se colocas em leito de areia
+***** Caule
+Precisam ter folhas,pelo menos gemas
+precisam ter dois nos no mínimo,um no ápice e outro na base
+**** [#B] Cuidados na coleta
+Planta matriz sem sintomas de doença
+Coletar nas horas mais frescas evita perda de água ate o plantio
+Recomenda-se deixar somente as folhas da parte superior
+O corte da estaca é feito imediatamente abaixo de um nó, na base
+Quando as folhas forem muito grandes devem ser cortadas no meio
+***** Tamanho
+de 7 a 15 cm
+**** [#C] Enraizamento
+Dura de 1 a 5 semanas
+deixar 2/3 abaixo da terra na sombra
+ou no sol pleno se houver proteção contra a umidade
+**** Transplante
+Raízes bens formadas,indicativos são
+as brotações
+apos transplantar e importante que se irrigue para melhor acomodação do solo
+** Local
+ Fácil acesso a água
+ distante de esgotos fossa e chiqueiros
+ exposto ao sol,de preferencia de manha
+*** Covas
+Utilizadas para especies arbustivas,trepadeiras e arbóreas
+**** Dimensões
+30cm x 30cm x 30cm
+
+Com um espaçamento de 3m entre as plantas e 4m entre as linhas
+levando em conta o crescimento da planta
+*** Sementeira
+****  Dimensões
+1m largura
+5m de comprimento
+**** Sulcos
+10 a 15 cm entre as sementes
+no max plantada a 1cm de profundidade
+*** Canteiros
+Mais comum para plantas de ciclo curto
+**** Dimensões
+1m2 de largura
+
+60cm entre canteiros
+**** Divisão
+***** Padrão
+20cm entre as plantas/30cm sulco
+***** Porte baixo
+35cm entre plantas e 50cm entre linhas
+***** Porte alto
+50cm entre plantas e 70cm entre linhas
+plantas com 2m
+
+*** [#C] Cobertura Morta
+E recomendado utilizar casca de arroz,capim seco,casca de cafe e etc
+** Solo
+Algumas especies exigem solos úmidos e outras preferem terrenos areno-argiloso com umidade controlada
+*** [#B] Correção
+Em caso de covas 1/4 das dosagens
+**** calcário
+para drenar água
+150g/m2/canteiro
+**** Esterco bovino
+6 a 101/m2/canteiro
+**** Esterco de galinha
+2 a 3l/m2/canteiro
+**** húmus
+2l/m2/canteiro
+
+*** [#B] Preparação
+Limpa-se a área|local,e revolve-se o solo
+Caso haja inclinação do solo e bom levar em conta para evitar erosão
+Capim-limão pode se tornar uma faixa de retenção por exemplo
+**** Sementeira
+Terra fofa,cobrir a semente com areia ou terra peneirada.
+deixar de 1 a  semanas pra transplante para o canteiro ou solo principal
+** Adubos
+*** Nitrogenado
+Aplicar durante o período de pico do crescimento para melhor resultados
+Bom realizar aplicações parceladas
+ajudam com plantas que se aproveitam das folhas e inflorescências
+**** Plantas
+beladona
+losna
+alfavaca
+alfazema
+melissa
+orégano
+arruda
+*** Fosfatado|potássico
+Bom realizar fosfatagem para corrigir deficiências tipicas do solo da região norte
+são importantes para as partes subterrâneas(raízes,bulbos,rizomas e etc)
+** Pragas
+Ácaros
+Besouros
+Cochonilhas
+Formigas
+lagartas
+Percevejo
+Pulgões
+Lesma
+Nematoides
+*** Doenças
+Fungos
+Bactérias
+Vírus
+*** [#B] Controle
+Rotação de culturas
+Espaçamento adequado
+**** Consorciacao
+Uma forma de combinar plantas para combater pragas
+Essencial para a saúde da horta
+
+• Alfavaca - seu cheiro repele moscas e mosquitos. Não devem ser plantadas perto da
+arruda.
+• Funcho - em geral não se dá bem com nenhuma outra planta.
+• Cravo-de-defuntos - protege as lavouras dos nematoides. Aparentemente não é prejudicial
+a nenhuma outra planta.
+• Hortelã - seu cheiro repele lepidópteros tipo borboleta-da-couve podendo ser plantada como
+bordadura de lavoura. Exige atenção pois se alastra com facilidade.
+• Manjerona - melhora o aroma das plantas.
+• Alecrim - mantém afastados a borboleta-da-couve e a mosca-da-cenoura. É planta
+companheira da sálvia.
+• Catinga-de-mulata - seu aroma forte mantém afastados os insetos voadores. pode ser
+plantada em toda área.
+• Tomilho - seu aroma mantém afastada a borboleta-da-couve.
+• Losna - como bordadura, mantém os animais fora da lavoura, mas sua vizinhança não faz
+bem a nenhuma outra planta.
+• Mil-folhas - planta-se com bordadura perto de ervas aromáticas (aumenta a produção de
+óleos essenciais).
+• Arnica brasileira - inibe a germinação de sementes de plantas daninhas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+** [#B] Colheita
+Talvez fosse bom ter algumas templates de anotações
+alguns mais complexos e outros mais simples
+para o usuário fazer um acompanhamento da planta
+
+E necessário olhar recomendações especificas para cada planta
+Bom levar em conta que isso também depende do fim dado para a parte colhida
+Realizar com o tempo seco de preferencia pela manha
+Evitar a colheita de plantas doentes, com manchas, fora do padrão, com terra, poeira,órgãos deformados ou outros defeitos
+| Parte colhida      | Ponto de colheita              |
+|--------------------+--------------------------------|
+| Casta e entrecasca | Quando uma estiver florida     |
+| Flores             | No inicio da floração          |
+| Frutos e sementes  | Quando maduros                 |
+| Raízes             | Quando a planta estiver adulta |
+| Talos e folhas     | Antes do florescimento         |
+*** Ferramentas
+Flores e hastes utiliza-se tesoura de poda mas algumas podem ser pegas manualmente
+Raízes e partes subterrâneas utiliza-se pás,enxadas e enxadões
+*** PROJ [#C] Armazenamento
+Colocado em cestas ou caixas,não se pode amontoar ou amassar pois isso acelera a degradação
+*** PROJ [#C] Qualidade
+Para o controle de qualidade devem ser anotados os seguintes dados: momento da colheita,
+condução da lavoura, local, produtor, condições de secagem, etc. Imediatamente após a
+colheita o material deve ser encaminhado para a secagem.
+**** TODO code
+Criar horta e uma forma
+de aut
+** TODO Composteira
+sla
+bun falou
+** [#C] Secagem
+Apenas caso seja necessário
+tentar sempre consumir frescas
+• Não se recomenda lavar as plantas antes da secagem, exceto no caso de determinados
+rizomas e raízes, que devem ser lavados.
+• Deve-se separar as plantas de espécies diferentes.
+• As plantas colhidas e transportadas ao local de secagem não devem receber raios solares.
+• Antes de submeter as plantas à secagem deve-se fazer a eliminação de elementos estranhos
+(terra, pedras, outras plantas, etc.) e partes que estejam em condições indesejáveis (sujas,
+descoloridas ou manchadas, danificadas).
+• As plantas colhidas inteiras devem ter cada parte (folha, flor, caule, raiz, sementes, frutos)
+seca em separado e conservada depois em recipientes individuais.
+• Quando as raízes são volumosas podem ser cortadas em pedaços ou fatias para facilitar a
+secagem.
+• Para secar as folhas, a melhor maneira é conservá-las com seus talos, pois isto preserva
+sua qualidade, previne danificações e facilita o manuseio.
+** [#C] Preparos
+Gerar um catalogo de receitas tb
+*** Banho
+Faz-se uma infusão ou decocção (veja a seguir) mais concentrada que dever ser coada e misturada na água do banho. Outra maneira indicada é colocar as ervas em um saco de pano firme e deixar boiando na água do banho. Os banhos podem ser parciais ou de corpo inteiro, e são normalmente indicados 1 vez por dia.
+• Amassar as ervas frescas e bem limpas, aplicar diretamente sobre a parte afetada ou
+envolvidas em pano fino ou gaze.
+• As ervas secas podem ser reduzidas a pó, misturadas em água, chás ou outras preparações
+aplicadas envoltas em pano fino sobre as partes afetadas.
+• Pode-se ainda utilizar farinha de mandioca ou fubá de milho e água, geralmente quente, com a planta fresca ou seca triturada.
+*** Compressa
+Preparação de uso local (tópico) que atua pela penetração dos princípios ativos através da pele. Utilizam-se panos, chumaços de algodão ou gaze embebidos em um infuso concentrado, decocto, sumo ou tintura da planta dissolvida em água. A compressa pode ser quente ou fria.
+molhar a ponta de uma toalha e colocar no local afetado, cobrindo com a outra ponta da toalha seca, para conservar o calor.
+*** Decocção
+preparação normalmente utilizada para ervas não aromáticas (que contém princípios estáveis ao calor) e para as drogas vegetais constituídas por sementes, raízes,cascas e outras partes da planta na quantidade prescrita de água fervente. Coar e espremer a erva com um pedaço de pano de ou coador. O decocto deve ser utilizado no mesmo dia de seu preparo.
+*** Gargarejo
+usado para combater afecções da garganta, amigdalite e mau hálito. Faz-se uma infusão concentrada e gargareja quantas vezes for necessário. Ex.: Salvia (mau hálito),tanchagem, malva e romã (amigdalite e afecções na boca).
+*** Inalação
+esta preparação utiliza a combinação do vapor de água quente com aroma das substâncias voláteis das plantas aromáticas, é normalmente recomendada para problemas do aparelho respiratório. Colocar a erva a ser usada numa vasilha com água fervente, na proporção de uma colher de sopa da erva fresca ou seca em ½ litro d’água, aspirar lentamente (contar até 3 durante a inspiração até 3 quando expelir o ar), prosseguindo assim ritmicamente por 15 minutos. O recipiente pode ser mantido no fogo para haver contínua produção de vapor. Usa-se um funil de cartolina (ou outro papel duro); ou ainda uma toalha sobre os ombros, a cabeça e a vasilha, para facilitar a inalação do vapor. No caso de crianças deve-se ter muito cuidado, pois há riscos de queimaduras, pela água quente e pelo vapor, por isso é recomendado o uso de equipamentos elétricos especiais para este fim.
+*** Maceração
+preparação (realizada a frio) que consiste em colocar a parte da planta medicinal dentro de um recipiente contendo álcool, óleo, água ou outro líquido. Folhas, flores e outras partes tenras ficam macerando por 18 a 24 horas. Plantas onde há possibilidade de fermentações não devem ser preparadas desta forma. O recipiente permanece em lugar fresco, protegido da luz solar direta, podendo ser agitado periodicamente. Findo o tempo previsto, filtra-se o líquido e pode-se acrescentar uma quantidade de diluente (água por exemplo), se achar necessário para obter um volume final desejado.
+*** Óleos
+São feitos na impossibilidade de fazer pomadas ou compressas. As ervas secas ou frescas são colocadas em um frasco transparente com óleo de oliva, girassol ou milho, depois manter o frasco fechado diretamente sob o sol por 2 a 3 semanas. Filtrar ao final e separar uma possível camada de água que se formar. Conservar em vidros que o protejam da luz.
+*** TODO olhar o resto
+
+* Catalogo
+** Planta Valida
+plantas adicionadas no sistema vão para uma quem
+
+quando alguém conferir se as informações são validas
+sera possível valida-la
+passando ela da queue para o catalogo principal
+e tornando a planta passível de ser plantada num horta
+** Especies de planta
+uma forma de checar o tipo de lugar q se esta plantando
+etc
+*** Arbustos e arvores
+Lenhosas,o arbusto costuma ser menor e ter varios caules saindo do solo,costuma tambem ter uma forma arredondada
+ja a arvore tem apenas um tronco saindo do solo
+*** Palmeiras
+Tropical ou SubTropical
+Ponto pricipal e a folhagem
+chamada de Fronde
+tem 4 tipos principais
+pinada,palmada,bipinada e inteira
+*** Trepadeiras
+Planta lenhosa,tambem conhecida como vinha
+trepadeiras verdadeiras sao as que se agarram a plantas e estruras para alcancar a luz solar
+ja as falsas sao arbustos lenhosos que se desenvolvem melhor quando possuem um apoio
+*** Herbaceas
+Possuem caules nao lenhosos
+nao sao anuais
+*** Gramineas
+capins,grama ou relva
+plantas herbaceas  com laminas  e veios paralelos
+costumam ser baixas mas nao e uma regra
+*** Cactos e Suculentas
+Armazenam agua em suas folhas
+Gostam de climas secos e sem humidade
+*** Forracao
+Praticamente uma trepadeira do chao
+Muito bom para proteger o solo de ervas daninhas
+*** Aquaticas
+Aquelas que conseguem sobreviver na agua ou locais de muita humidade
+*** Samambaias
+preferencia por clima tropical e humido
+solo com muita materia organica
+podese usar musgo
+*** Musgo
+Crescem em locais humidos,pedra,solo e arvores
+Costumam ser usado para ajudar o solo ou de substrato para orquideas por exemplo
+
+** Filtrar por indicações?
+** Revisar
+Alterar dados de alguma planta
+
+** Planta
+Nomes
+estacão & biomas & terra
+Indicações & contra
+EfeitosMedicinais
+Como Consumir
+Fontes
+* Diario
+Uma coleção de paginas
+que pode ser pesquisada por títulos
+** Pagina
+interface que escreve,complementa informações,reescreve trechos e adiciona fts
+* Usuário
+** Adicionar Planta
+ Necessário:
+ Todos padrões de PlantaVO
+
+ senão função dará erro
+
+ Sera colocada numa queu de avaliação
+ Necessário alguém validar se as informações são confiáveis
+
+ possível de automatizar
+
+** PedirRevisão
+uma forma do usuário pedir a revisão de algum dado
+sobre as plantas no catalogo
+
+de preferencia colocar uma sugestão do q esta errado
+e uma fonte?
+
+** Publicar horta
+talvez isso seja uma ação do usuário e não do horta
